@@ -1,0 +1,3 @@
+# Toxicity data and the SQLite database file live here at runtime.
+# Deliberately not committed to git (see .gitignore) since it's
+# generated data, not source.
