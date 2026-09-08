@@ -4,7 +4,8 @@ A full-stack moderation tool that fetches YouTube comments (regular
 videos AND live stream chat), scores them for toxicity, stores results
 in a database, and shows everything in a browsable dashboard.
 
-## 1. Architecture (what's actually built now)
+## 1. Architecture (Current Architecture
+)
 
 ```
 ┌────────────────┐     ┌────────────────┐
